@@ -1,4 +1,4 @@
-# How to get PVC Usage on EKS
+# How to get PVC Usage
 
 ### Run following Command:
 
